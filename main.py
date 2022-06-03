@@ -55,7 +55,7 @@ def hint_two(the_num):
     if the_num >= 0 and the_num <= 5:
         print('Hint2: The Number is between 0-5 \n')
     elif the_num >= 6 and the_num <= 10:
-        print('Hint2: The Number is between 6-9 \n')
+        print('Hint2: The Number is between 6-10 \n')
     else:
         print("olodo")
     game(the_num)
